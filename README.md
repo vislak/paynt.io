@@ -1,7 +1,6 @@
 
-# Socket.IO Collaborative Whiteboard
+# Paynt.io: An online multiplayer game
 
-A simple collaborative whiteboard for socket.io
 
 ## How to use
 
